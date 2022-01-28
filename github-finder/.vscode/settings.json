@@ -1,0 +1,5 @@
+{
+    "matlab.lintOnSave": false,
+    "python.linting.lintOnSave": false,
+    "php.validate.run": "onType"
+}
